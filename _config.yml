@@ -21,7 +21,7 @@ repository               : "ManeeshaAmpagouni/maneeshaampagouni.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_Picture.jpg"
+  avatar           : "Profile_Picture.jpeg"
   name             : "Maneesha Ampagouni"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Mathematics"
