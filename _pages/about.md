@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate in Mathematics at University of California, Santa Cruz working under the supervision of Geoffrey Mason. I am currently studing the theory of Vertex Operator Algebras.
+I am a fourth year PhD candidate in Mathematics at University of California, Santa Cruz working under the supervision of Geoffrey Mason. I am currently studying the theory of Vertex Operator Algebras.
