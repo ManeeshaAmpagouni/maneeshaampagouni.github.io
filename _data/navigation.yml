@@ -13,7 +13,7 @@ main:
 
   - title: "Publications"
   #  url: /publications/
-     url: https://scholar.google.com/citations?hl=en&user=UQjt7yUAAAAJ
+     url: "https://scholar.google.com/citations?hl=en&user=UQjt7yUAAAAJ"
   
   #- title: "Portfolio"
   #  url: /portfolio/
