@@ -1,4 +1,3 @@
-
 ---
 title: "What is the Moonshine Module?"
 collection: talks
