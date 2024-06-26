@@ -7,7 +7,7 @@ Where: "UC Santa Cruz"
 When: Spring 2024
 
 ---
-When: Spring 2024  <br>
+When: 29th April, 2024 (Spring 2024)  <br>
 
 Where: Mathematics Graduate Colloquium, UC Santa Cruz
 
