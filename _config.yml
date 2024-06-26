@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Maneesha Ampagouni"
 title_separator          : "-"
-name                     : &name "Maneesha Ampagouni"
+name                     : &name "Homepage"
 description              : &description "personal description"
 url                      : https://maneeshaampagouni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
