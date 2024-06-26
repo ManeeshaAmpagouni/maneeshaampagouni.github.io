@@ -8,6 +8,6 @@ When: Winter 2024
 
 ---
 
-When: Winter 2024 <br>
+When: Winter 2024   <br>
 
 Where: In a vertex operator algebra theory reading group with Xuguang Liu, Junwen Liao, Tsz Yau Tin at UC Santa Cruz.

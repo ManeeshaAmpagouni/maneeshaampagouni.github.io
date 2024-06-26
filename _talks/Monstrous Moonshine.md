@@ -2,12 +2,12 @@
 title: "Introduction to Monstrous Moonshine"
 collection: talks
 type: "Colloquium"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/Monstrous Moonshine
 Where: "UC Santa Cruz"
 When: Spring 2024
 
 ---
-When: Spring 2024 <br>
+When: Spring 2024  <br>
 
 Where: Mathematics Graduate Colloquium, UC Santa Cruz
 
