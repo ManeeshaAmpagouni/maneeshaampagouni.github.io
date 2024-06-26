@@ -7,5 +7,5 @@ Where: "UC Santa Cruz"
 When: Winter 2024
 
 ---
-
-In a Vertex Operator Algebra Theory reading group with Xuguang Liu, Junwen Liao, Tsz Yau Tin.
+When: Winter 2024
+Where: In a vertex operator algebra theory reading group with Xuguang Liu, Junwen Liao, Tsz Yau Tin at UC Santa Cruz.

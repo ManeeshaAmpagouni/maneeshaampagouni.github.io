@@ -8,4 +8,5 @@ When: Fall 2023
 
 ---
 
-In a Vertex Operator Algebra Theory reading group with Xuguang Liu, Junwen Liao.
+When: Winter 2024
+Where: In a vertex operator algebra theory reading group with Xuguang Liu, Junwen Liao at UC Santa Cruz.
