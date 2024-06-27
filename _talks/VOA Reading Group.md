@@ -7,6 +7,20 @@ Where: "UC Santa Cruz"
 When: Winter 2024
 ---
 
+Overview:  <br>
+I organized this reading group on Vertex Operator Algebras with two other members of my department at the University of California, Santa Cruz. This reading group aims to deepen our understanding of advanced concepts in VOA theory through regular discussions and presentations.
+
+Participants:  <br>
+Maneesha Ampagouni  <br>
+Junwen Liao  <br>
+Xuguang Liu  <br>
+
+Structure:  <br>
+The reading group meets weekly or once every two weeks to discuss selected papers, book chapters, and recent advancements in the field. Each session typically includes a presentation by one of the participants, followed by an in-depth discussion.
+
+Topics Covered:  <br>
+Below is a list of talks I presented in the reading group:  <br>
+
 Date: 09th October, 2023 (Fall 2023)   <br>
 Topic: Modular Tensor Category  <br>
 
