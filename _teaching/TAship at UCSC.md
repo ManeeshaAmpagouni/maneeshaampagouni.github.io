@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistantship at UCSC"
 collection: teaching
-type: "Undergraduate course"
+#type: "Undergraduate course"
 permalink: /teaching/TAship at UCSC
 Location: "UCSC"
 #date: 2014-01-01
@@ -10,7 +10,6 @@ Location: "UCSC"
 
 I served as a teaching assistant to the following courses at UC Santa Cruz
 
-======
 - <span style="color:blue">Math 23A-OL</span>: **Vector Calculus** Spring 2024
 
 - <span style="color:blue">Math 110-01</span>: **Introduction to Number Theory** Winter 2024
