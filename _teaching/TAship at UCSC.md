@@ -1,10 +1,9 @@
 ---
 title: "Teaching Assistantship at UCSC"
 collection: teaching
-type: "Teaching Assistantship"
+#type: "Teaching Assistantship"
 permalink: /teaching/TAship at UCSC
 Where: "UCSC"
-Date: "Fall 2019 - Present"
 
 ---
 

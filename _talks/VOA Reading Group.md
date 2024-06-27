@@ -19,16 +19,31 @@ Structure:  <br>
 The reading group meets weekly or once every two weeks to discuss selected papers, book chapters, and recent advancements in the field. Each session typically includes a presentation by one of the participants, followed by an in-depth discussion.
 
 Topics Covered:  <br>
-Below is a list of talks I presented in the reading group:  <br>
-
-Date: 09th October, 2023 (Fall 2023)   <br>
-Topic: Modular Tensor Category  <br>
-
-Date: 13th November, 2023 (Fall 2023)   <br>
-Topic: Moonshine Module  <br>
+Below is a list of talks presented in the reading group:  <br>
 
 Date: 23rd February, 2024 (Winter 2024)   <br>
 Topic: Modular Invariance of Trace Functions in Orbifold Theory  <br>
+Speaker: Maneesha Ampagouni  <br>
+
+Date: 2nd February, 2024 (Winter 2024)   <br>
+Topic: Zhu Algebras  <br>
+Speaker: Xuguang Liu  <br>
+
+Date: 13th November, 2023 (Fall 2023)   <br>
+Topic: Moonshine Module  <br>
+Speaker: Maneesha Ampagouni  <br>
+
+Date: 30th October, 2023 (Fall 2023)   <br>
+Topic: Differential Anti-symmetric Infinitesimal Bialgebras  <br>
+Speaker: Maneesha Ampagouni  <br>
+
+Date: 09th October, 2023 (Fall 2023)   <br>
+Topic: Modular Tensor Category  <br>
+Speaker: Maneesha Ampagouni  <br>
+
+
+
+
 
 
 
