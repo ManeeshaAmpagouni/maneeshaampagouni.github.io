@@ -35,7 +35,7 @@ Speaker: Maneesha Ampagouni  <br>
 
 Date: 30th October, 2023 (Fall 2023)   <br>
 Topic: Differential Anti-symmetric Infinitesimal Bialgebras  <br>
-Speaker: Maneesha Ampagouni  <br>
+Speaker: Xuguang Liu  <br>
 
 Date: 09th October, 2023 (Fall 2023)   <br>
 Topic: Modular Tensor Category  <br>
