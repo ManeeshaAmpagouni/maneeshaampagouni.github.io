@@ -7,19 +7,18 @@ Where: "UC Santa Cruz"
 When: Winter 2024
 ---
 
-Overview:  <br>
+**Overview:**  <br>
 I organized this reading group on Vertex Operator Algebras with two other members of my department at the University of California, Santa Cruz. This reading group aims to deepen our understanding of concepts in VOA theory through regular discussions and presentations.
 
-Participants:  <br>
+**Participants:**  <br>
 Maneesha Ampagouni  <br>
 Junwen Liao  <br>
 Xuguang Liu  <br>
 
-Structure:  <br>
+**Structure:**  <br>
 The reading group meets weekly or once every two weeks to discuss selected papers, book chapters, and recent advancements in the field. Each session typically includes a presentation by one of the participants, followed by an in-depth discussion.
 
-Topics Covered:  <br>
-Below is a list of talks presented in the reading group:  <br>
+**Topics Covered:**  <br>
 
 Date: 23rd February, 2024 (Winter 2024)   <br>
 Topic: Modular Invariance of Trace Functions in Orbifold Theory  <br>
