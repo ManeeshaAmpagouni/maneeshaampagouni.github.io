@@ -5,8 +5,8 @@ main:
   # url: /cv/
     url: /files/CV_June_2024.pdf
     
-  #- title: "Teaching"
-  #  url: /teaching/ 
+  - title: "Teaching"
+    url: /teaching/ 
   
   - title: "Talks"
     url: /talks/    
