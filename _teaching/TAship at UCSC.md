@@ -4,7 +4,7 @@ collection: teaching
 #type: "Undergraduate course"
 permalink: /teaching/TAship at UCSC
 Location: "UCSC"
-Date: 2024-27-04
+Date: 2024-04-27
 #location: "City, Country"
 ---
 
