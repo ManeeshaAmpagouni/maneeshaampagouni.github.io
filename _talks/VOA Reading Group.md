@@ -8,7 +8,7 @@ When: Winter 2024
 ---
 
 Overview:  <br>
-I organized this reading group on Vertex Operator Algebras with two other members of my department at the University of California, Santa Cruz. This reading group aims to deepen our understanding of advanced concepts in VOA theory through regular discussions and presentations.
+I organized this reading group on Vertex Operator Algebras with two other members of my department at the University of California, Santa Cruz. This reading group aims to deepen our understanding of concepts in VOA theory through regular discussions and presentations.
 
 Participants:  <br>
 Maneesha Ampagouni  <br>
