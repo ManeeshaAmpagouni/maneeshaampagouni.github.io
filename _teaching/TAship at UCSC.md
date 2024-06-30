@@ -4,7 +4,7 @@ collection: teaching
 #type: "Teaching Assistantship"
 permalink: /teaching/TAship at UCSC
 Where: "UCSC"
-Date: 30-06-2024
+Date: "2024-06-30"
 
 ---
 
