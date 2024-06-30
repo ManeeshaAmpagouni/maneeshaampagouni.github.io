@@ -28,13 +28,33 @@ Date: 2nd February, 2024 (Winter 2024)   <br>
 Topic: Zhu Algebras  <br>
 Speaker: Xuguang Liu  <br>
 
+Date: 26th January, 2024 (Winter 2024)   <br>
+Topic: Quantum Galois Theory and Basic Orbifold Theory (continued) <br>
+Speaker: Junwen Liao  <br>
+
+Date: 19th January, 2024 (Winter 2024)   <br>
+Topic: Quantum Galois Theory and Basic Orbifold Theory  <br>
+Speaker: Junwen Liao  <br>
+
 Date: 13th November, 2023 (Fall 2023)   <br>
 Topic: Moonshine Module  <br>
 Speaker: Maneesha Ampagouni  <br>
 
+Date: 6th November, 2023 (Fall 2023)   <br>
+Topic: Modular Forms and Characters of VOAs (continued)  <br>
+Speaker: Junwen Liao  <br>
+
 Date: 30th October, 2023 (Fall 2023)   <br>
 Topic: Differential Anti-symmetric Infinitesimal Bialgebras  <br>
 Speaker: Xuguang Liu  <br>
+
+Date: 23rd October, 2023 (Fall 2023)   <br>
+Topic: Modular Forms and Characters of VOAs (continued)  <br>
+Speaker: Junwen Liao  <br>
+
+Date: 16th October, 2023 (Fall 2023)   <br>
+Topic: Modular Forms and Characters of VOAs  <br>
+Speaker: Junwen Liao  <br>
 
 Date: 09th October, 2023 (Fall 2023)   <br>
 Topic: Modular Tensor Category  <br>
