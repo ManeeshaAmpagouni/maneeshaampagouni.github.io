@@ -1,7 +1,6 @@
 ---
 title: "Teaching Assistantship at UCSC"
 collection: teaching
-#type: "Teaching Assistantship"
 permalink: /teaching/TAship at UCSC
 Where: "UC Santa Cruz"
 
