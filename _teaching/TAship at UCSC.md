@@ -2,7 +2,6 @@
 title: "Teaching Assistantship at UCSC"
 collection: teaching
 permalink: /teaching/TAship at UCSC
-Where: "UC Santa Cruz"
 
 ---
 I served as a teaching assistant to the following courses at UC Santa Cruz
