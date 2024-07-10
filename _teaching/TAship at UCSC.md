@@ -7,7 +7,7 @@ venue: "University of California, Santa Cruz"
 date: 2024-10-07
 
 ---
-I served as a teaching assistant to the following courses at UC Santa Cruz
+I served as a teaching assistant to the following courses 
 
 - <span style="color:blue">Math 23A-OL</span>: **Vector Calculus** Spring 2024
 
