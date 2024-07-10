@@ -4,11 +4,11 @@ collection: talks
 type: "Reading Group"
 permalink: /talks/VOA Reading Group
 Where: "UC Santa Cruz"
-When: Winter 2024
+date: 2023-10-09
 ---
 
 **Overview:**  <br>
-I organized this reading group on Vertex Operator Algebras with two other members of my department at the University of California, Santa Cruz. This reading group aims to deepen our understanding of concepts in VOA theory through regular discussions and presentations.
+I organized this reading group on vertex operator algebras with two other members of my department at University of California, Santa Cruz. This reading group aims to deepen our understanding of concepts in VOA theory through regular discussions and presentations.
 
 **Participants:**  <br>
 Maneesha Ampagouni  <br>

@@ -4,7 +4,7 @@ collection: talks
 type: "Colloquium"
 permalink: /talks/Monstrous Moonshine
 Where: "UC Santa Cruz"
-When: Spring 2024
+date: 2024-04-29
 
 ---
 When: 29th April, 2024 (Spring 2024)  <br>
