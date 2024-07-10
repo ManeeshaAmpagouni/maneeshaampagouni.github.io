@@ -4,7 +4,7 @@ collection: talks
 type: "Reading Group"
 permalink: /talks/VOA Reading Group
 Where: "UC Santa Cruz"
-date: 2023-10-09
+#date: 2023-10-09
 ---
 
 **Overview:**  <br>
