@@ -1,12 +1,16 @@
 ---
-title: "Teaching Assistantship at UCSC"
+title: "Teaching at UCSC"
 collection: teaching
-type: "Teaching Assistantship"
+type: "Teaching "
 permalink: /teaching/TAship at UCSC
 venue: "University of California, Santa Cruz"
 date: 2024-10-07
 
 ---
+I served as a graduate student instructor to the following course
+
+- <span style="color:blue">Math 2-01</span>: **College Algebra for Calculus** Summer 2024
+
 I served as a teaching assistant to the following courses 
 
 - <span style="color:blue">Math 23A-OL</span>: **Vector Calculus** Spring 2024
