@@ -2,7 +2,7 @@
 main:
     
   - title: "CV"
-   url: /cv/
+   # url: /cv/
    url: /files/CV_August_2024.pdf
     
   - title: "Teaching"
