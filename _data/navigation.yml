@@ -1,9 +1,9 @@
 # main links links
 main:
     
-  # - title: "CV"
+   - title: "CV"
   # url: /cv/
-  #  url: /files/CV_August_2024.pdf
+   url: /files/CV_October_2024.pdf
     
   - title: "Teaching"
     url: /teaching/ 
