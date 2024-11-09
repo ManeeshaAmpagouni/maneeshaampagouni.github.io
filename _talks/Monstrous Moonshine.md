@@ -3,7 +3,7 @@ title: "Introduction to Monstrous Moonshine"
 collection: talks
 type: "Colloquium"
 permalink: /talks/Monstrous Moonshine
-Where: "UC Santa Cruz"
+venue: "UC Santa Cruz"
 date: 2024-04-29
 
 ---
