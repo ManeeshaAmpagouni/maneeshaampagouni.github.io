@@ -1,13 +1,12 @@
 ---
 title: "1-point Functions for Z2-orbifold of Lattice Vertex Operator Algebras"
 collection: talks
-type: "Colloquium"
+type: "Mathematics Graduate Colloquium"
 permalink: /talks/1-point functions
+venue: "University of California, Santa Cruz"
 date: 2024-11-18
 
 ---
-
-**Where:** Mathematics Graduate Colloquium, UC Santa Cruz   
 
 **Abstract:**
 The moonshine module famously links the j-function, a key modular form, to the Monster group, revealing a surprising connection between group theory and modular forms. Zhu’s breakthrough showed that this modular invariance arises from the structure of a vertex operator algebra (VOA) and is associated with specific finiteness properties. This discovery paved the way for recognizing that the moonshine module is not unique in exhibiting modular properties—other VOAs share these traits. Notably, the construction of the moonshine module can be generalized by replacing the Leech lattice with any even lattice, resulting in the $\mathbb{Z}_2$-orbifold of a lattice VOA, which still upholds modular invariance.
