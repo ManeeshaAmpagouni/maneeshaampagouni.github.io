@@ -1,5 +1,5 @@
 ---
-title: "1-point functions for $\mathbb{Z}_2-orbifold of lattice VOAs$"
+title: "1-point functions for $\mathbb{Z}_2$-orbifold of lattice VOAs"
 collection: talks
 type: "Colloquium"
 permalink: /talks/1-point functions
