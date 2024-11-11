@@ -1,14 +1,13 @@
 ---
-title: "1-point Functions for Z2-orbifold of Lattice Vertex Operator Algebras"
+title: "1-point functions for Z2-orbifold of lattice VOAs"
 collection: talks
 type: "Mathematics Graduate Colloquium"
 permalink: /talks/1-point functions
 venue: "University of California, Santa Cruz"
-date: 2024-11-18
+date: 2024-11-22
 
 ---
 
 **Abstract:**
-The moonshine module famously links the j-invariant, a key modular function, to the Monster group, revealing a surprising connection between group theory and modular forms. Zhu’s breakthrough showed that this modular invariance arises from the structure of a vertex operator algebra (VOA) and is associated with specific finiteness properties. This discovery paved the way for recognizing that the moonshine module is not unique in exhibiting modular properties—other VOAs share these traits. Notably, the construction of the moonshine module can be generalized by replacing the Leech lattice with any even lattice, resulting in the $\mathbb{Z}_2$-orbifold of a lattice VOA, which still upholds modular invariance.
 
-In this talk, I will outline the structure of such $\mathbb{Z}_2$-orbifold VOAs, which are formed by joining subspaces of untwisted and twisted sectors of a lattice VOA. Building on the work of Mason and Mertens, who computed the 1-point functions for states in the untwisted sector using methods inspired by Zhu's theory, I will present how I extended these techniques to trace over the twisted sector. This allowed me to derive the 1-point functions for the full $\mathbb{Z}_2$-orbifold, highlighting the intricate interplay between VOAs, modular forms, and lattice structures.
+The Moonshine module, a vertex operator algebra (VOA) linking the Monster group to modular forms via the j-function, has inspired significant research into VOAs with modular properties. Understanding the modular properties of VOAs is crucial, and one way to explore this is through their 1-point functions. In this talk, I will present my work on computing the 1-point functions for the $\mathbb{Z}_2$-orbifold of lattice VOAs. I will begin by introducing the standard Zhu theory, followed by an explanation of how Mason and Mertens developed the $\mathbb{Z}_2$-twisted Zhu theory to compute the 1-point functions in the untwisted sector for symmetrized Heisenberg and lattice VOAs. I will then show how I extended these techniques to handle the twisted sector. This extension allows me to derive the 1-point functions for the $\mathbb{Z}_2$-orbifold, which, as expected, are level-one modular forms for the full modular group $SL_2(\mathbb{Z})$, up to a character.
