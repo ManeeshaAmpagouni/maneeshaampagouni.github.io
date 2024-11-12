@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Vertex Operator Algebras and the Z2-orbifold of a lattice VOA"
+title: "Z2-orbifold of a Lattice VOA"
 collection: talks
 type: "Mathematics Graduate Colloquium"
 permalink: /talks/Z2-orbifold
