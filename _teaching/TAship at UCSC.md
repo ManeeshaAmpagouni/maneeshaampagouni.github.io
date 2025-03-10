@@ -16,6 +16,8 @@ I served as a graduate student instructor to the following course
 
 I served as a teaching assistant to the following courses 
 
+- <span style="color:blue">Math 100</span>: **Introduction to Proof and Problem Solving** Winter 2025
+
 - <span style="color:blue">Math 21-01</span>: **Linear Algebra** Fall 2024
 
 - <span style="color:blue">Math 23A-OL</span>: **Vector Calculus** Spring 2024
