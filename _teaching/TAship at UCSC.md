@@ -1,5 +1,5 @@
 ---
-title: "Teaching at UC Santa Cruz"
+title: "Teaching Assistantship at UC Santa Cruz"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/TAship at UCSC
