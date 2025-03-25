@@ -37,5 +37,3 @@ I served as a teaching assistant to the following courses
 - <span style="color:blue">Math 19A</span>: **Calculus for Science, Engineering, and Mathematics** Winter 2021
 
 - <span style="color:blue">Math 19B</span>: **Calculus for Science, Engineering, and Mathematics** Fall 2020
-
-- <span style="color:blue">Math 19B</span>: **Calculus for Science, Engineering, and Mathematics** Fall 2019 

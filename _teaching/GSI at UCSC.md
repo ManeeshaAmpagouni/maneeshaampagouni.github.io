@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/GSI at UCSC
 venue: "University of California, Santa Cruz"
-date: 2024-10-07
+date: 2025-03-15
 
 ---
 
