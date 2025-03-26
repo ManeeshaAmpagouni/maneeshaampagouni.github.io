@@ -24,8 +24,6 @@ I served as a teaching assistant to the following courses
 
 - <span style="color:blue">Math 19B</span>: **Calculus for Science, Engineering, and Mathematics** Winter 2023
 
-- <span style="color:blue">Math 21-01</span>: **Linear Algebra** Fall 2022
-
 - <span style="color:blue">Math 11A-01</span>: **Calculus with Applications** Spring 2022
 
 - <span style="color:blue">Math 11B-01</span>: **Calculus with Applications** Winter 2022
